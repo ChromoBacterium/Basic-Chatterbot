@@ -1,2 +1,2 @@
-# Random Program
-A random program written in Python 3.6
+# Calculator 
+A calculator written in Python 3.6
