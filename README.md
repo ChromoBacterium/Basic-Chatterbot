@@ -1,2 +1,2 @@
-# Basic-Chatterbot
-A Basic Chatter-Bot written in Python 3.6
+# Random Program
+A random program written in Python 3.6
