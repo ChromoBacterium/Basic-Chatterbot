@@ -1,2 +1,2 @@
 # Calculator 
-A calculator written in Python 3.6
+A calculator written in Python 3.7
